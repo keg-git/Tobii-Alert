@@ -1,1 +1,1 @@
-curl 
+curl alert.keg.wang 
